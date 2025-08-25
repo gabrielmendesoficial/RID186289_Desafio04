@@ -1,0 +1,17 @@
+[
+  {
+    "imagem": "/projeto1.png",
+    "titulo": "The News Dev - Jornalismo",
+    "descricao": "Plataforma de jornalismo visando o front-end, design responsivo e com instruções simples de funções para a Escola DNC."
+  },
+  {
+    "imagem": "/projeto2.png",
+    "titulo": "Iris System Chatbot",
+    "descricao": "Utiliza o framework FastAPI para disponibilizar uma API que prevê a espécie de uma flor íris com base em suas características morfológicas."
+  },
+  {
+    "imagem": "/projeto3.png",
+    "titulo": "IA para Call Centers",
+    "descricao": "Interface web interativa para o treinamento e avaliação de modelos de machine learning, focada na criação de uma IA."
+  }
+]

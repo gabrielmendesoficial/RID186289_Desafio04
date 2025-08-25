@@ -1,0 +1,42 @@
+.blog{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+
+    padding: 2rem;
+
+    background-color: rgb(229, 245, 245);
+}
+
+.wrapper{
+    width: 70rem;
+}
+
+.title{
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 2rem;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    gap: 4rem;
+    
+}
+
+.card {
+    background-color: white;
+    padding: 1rem;
+    width: 30rem;
+}
+
+.card .meta{
+    display: flex;
+    gap: 1rem;
+}
+
+.card p {
+    line-height: 1.4rem;
+}
