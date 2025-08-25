@@ -13,7 +13,7 @@ Este é um projeto de portfólio pessoal desenvolvido com React e Vite, criado c
 - **CSS3** - Estilização com CSS puro, incluindo Grid e Flexbox
 - **JavaScript ES6+** - Funcionalidades modernas do JavaScript
 
-💡 Por que o Template 03 foi escolhido?
+## 💡 Por que o Template 03 foi escolhido?
 
 A escolha do Template 03 foi estratégica e baseada em uma análise cuidadosa das opções disponíveis no Figma da entrega.
 
